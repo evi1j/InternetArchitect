@@ -91,6 +91,8 @@ docker和k8s资料：[地址]( https://pan.baidu.com/s/12T37i2xKFzS4wEsBVfn0ug )
 131  消息中间件-ActiveMQ 04 [地址](https://ke.qq.com/webcourse/index.html#cid=398381&term_id=100475149&taid=4067359799514157&type=1024&vid=5285890797855910122)
 133  消息中间件-ActiveMQ 05 [地址](https://ke.qq.com/webcourse/index.html#cid=398381&term_id=100475149&taid=4067368389448749&type=1024&vid=5285890798408980736)
 134  消息中间件-ActiveMQ 06 [地址](https://ke.qq.com/webcourse/index.html#cid=398381&term_id=100475149&taid=4067372684416045&type=1024&vid=5285890798483964676)
+135  消息中间件-ActiveMQ 07 [地址](https://ke.qq.com/webcourse/index.html#cid=398381&term_id=100475149&taid=4067376979383341&type=1024&vid=5285890798593302228)
+136  消息中间件-ActiveMQ 08 [地址](https://ke.qq.com/webcourse/index.html#cid=398381&term_id=100475149&taid=4067381274350637&type=1024&vid=5285890798667036503)
 
 ### Spring源码分析
 18	Spring源码-源码概览 [地址](https://ke.qq.com/webcourse/index.html#cid=398381&term_id=100475149&taid=3665578493875245&type=1024&vid=5285890793322671596)
@@ -112,6 +114,7 @@ docker和k8s资料：[地址]( https://pan.baidu.com/s/12T37i2xKFzS4wEsBVfn0ug )
 101  Netty之内存管理 [地址](https://ke.qq.com/webcourse/index.html#cid=398381&term_id=100475149&taid=4067230950495277&type=1024&vid=5285890796098401636)
 109  Netty之内存管理二[地址](https://ke.qq.com/webcourse/index.html#cid=398381&term_id=100475149&taid=4067265310233645&type=1024&vid=5285890796550106193)
 118  NETTY小结 [地址](https://ke.qq.com/webcourse/index.html#cid=398381&term_id=100475149&taid=4067303964939309&type=1024&vid=5285890796973596740)
+137  Netty 内存管理 （netty源码） [地址](https://ke.qq.com/webcourse/index.html#cid=398381&term_id=100475149&taid=4067385569317933&type=1024&vid=5285890798755934697)
 
 ### JVM
 80	JVM入门级class文件格式 [地址](https://ke.qq.com/webcourse/index.html#cid=398381&term_id=100475149&taid=3385671180227629&type=1024&vid=5285890795254417183)
@@ -177,7 +180,7 @@ docker和k8s资料：[地址]( https://pan.baidu.com/s/12T37i2xKFzS4wEsBVfn0ug )
 
 ### 架构师前置知识
 
-4 spring,ioc入门与详解 [地址](https://ke.qq.com/webcourse/index.html#cid=398381&term_id=100475149&taid=4067299669972013&type=1024&vid=5285890796964066182)
+4 spring,ioc入门与详解 [地址](https://ke.qq.com/webcourse/index.html#cid=398381&term_id=100475149&taid=3385404892255277&type=1024&vid=5285890790625135834)
 5 maven的简单构建，springaop [地址](https://ke.qq.com/webcourse/index.html#cid=398381&term_id=100475149&taid=3385409187222573&type=1024&vid=5285890790630114912)
 6 spring中的循环依赖、代理方式讲解 [地址](https://ke.qq.com/webcourse/index.html#cid=398381&term_id=100475149&taid=3385413482189869&type=1024&vid=5285890790589942447)
 7 springboot mvc项目结构、开发、热部署 [地址](https://ke.qq.com/webcourse/index.html#cid=398381&term_id=100475149&taid=3385417777157165&type=1024&vid=5285890790511540996)
@@ -214,6 +217,10 @@ mysql有道云笔记的连接：文档：MySQL
 链接：http://note.youdao.com/noteshare?id=764336de06a157bbdffe5fb89ad7b733
 ```
 
+### PMP大讲堂之：TDD在敏捷开发中的最佳实践，[视频地址](链接：https://pan.baidu.com/s/1ZAifDHBKYpnEsLoQ794SRg )     密码：y5fe
+
+
+
 # 架构二期课程每阶段对应目录章节(持续更新中)：
 
 ### Java游戏开发
@@ -242,8 +249,10 @@ mysql有道云笔记的连接：文档：MySQL
 ### 网约车项目
 
 19 网约车项目一 [地址](https://ke.qq.com/webcourse/index.html#cid=398381&term_id=100558952&taid=4185729098191917&type=1024&vid=5285890797675722327)
-
 20 网约车项目二 [地址](https://ke.qq.com/webcourse/index.html#cid=398381&term_id=100558952&taid=4185733393159213&type=1024&vid=5285890797908496068)
+21 网约车项目三 [地址](https://ke.qq.com/webcourse/index.html#cid=398381&term_id=100558952&taid=4185737688126509&type=1024&vid=5285890798297399505)
+22 网约车项目四 [地址](https://ke.qq.com/webcourse/index.html#cid=398381&term_id=100558952&taid=4185741983093805&type=1024&vid=5285890798557419555)
+23 网约车项目五 [地址](https://ke.qq.com/webcourse/index.html#cid=398381&term_id=100558952&taid=4185746278061101&type=1024&vid=5285890798818937191)
 
 ##  课程包中的小课
 
@@ -261,11 +270,11 @@ mysql有道云笔记的连接：文档：MySQL
 1.	架构师高级技能kubernetes入门到精通，[课程链接]()，[资料地址]()
 
 ##  以下课程是在VIP大课截取，VIP学员不必观看
-1.	自定义注解，[课程链接]()，[资料地址]()
-1.	JDK8新特性-stream api，[课程链接]()，[资料地址]()
-1.	JDK8新特性～lambda表达式，[课程链接]()，[资料地址]()
+1.	自定义注解，[课程链接](https://ke.qq.com/course/458641?tuin=6e67ea5e)，[资料地址]()
+1.	JDK8新特性-stream api，[课程链接](https://ke.qq.com/course/458646?tuin=6e67ea5e)，[资料地址]()
+1.	JDK8新特性～lambda表达式，[课程链接](https://ke.qq.com/course/458630?tuin=6e67ea5e)，[资料地址]()
 1.	高并发高可用lvs+keepalived分布式架构师前修课，[课程链接](https://ke.qq.com/course/458615?tuin=a75a5977)，[资料地址]()
-1.	全网最新redis+zookeeper架构师必修课，[课程链接]()，[资料地址]()
+1.	全网最新redis+zookeeper架构师必修课，[课程链接](https://ke.qq.com/course/458724?tuin=6e67ea5e)，[资料地址]()
 1.	Hadoop零基础从入门到精通，[课程链接](https://ke.qq.com/course/432890?tuin=a75a5977)
 1.	Java web【马士兵教育】，[课程链接](https://ke.qq.com/course/422068?tuin=a75a5977)
 
